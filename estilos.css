@@ -1,0 +1,12 @@
+input[ type= "submit"]{
+    background-color: grey;
+    padding: 20px;
+    color: antiquewhite;
+    text-transform: uppercase;
+    font-weight: bold;
+    cursor: pointer;
+}
+.feedback {
+    background-color: black;
+    color: white;
+}
